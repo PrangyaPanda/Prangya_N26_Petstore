@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-26T20:20:03 IST" name="ExtentSuite" finished-at="2022-03-26T20:20:32 IST" duration-ms="29466">
+    <groups>
+    </groups>
+    <test started-at="2022-03-26T20:20:03 IST" name="PetId_Creation" finished-at="2022-03-26T20:20:15 IST" duration-ms="12535">
+      <class name="com.N26.PetStoreTest.testcase.PetId_Creation">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:03 IST" name="startReport" finished-at="2022-03-26T20:20:03 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="PetId_Creation_Sucess()[pri:1, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:03 IST" name="PetId_Creation_Sucess" finished-at="2022-03-26T20:20:06 IST" duration-ms="3075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PetId_Creation_Sucess -->
+        <test-method signature="PetId_Fetch()[pri:2, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:06 IST" name="PetId_Fetch" finished-at="2022-03-26T20:20:07 IST" duration-ms="1546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PetId_Fetch -->
+        <test-method signature="petId_By_Status()[pri:3, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:07 IST" name="petId_By_Status" finished-at="2022-03-26T20:20:09 IST" duration-ms="1318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- petId_By_Status -->
+        <test-method signature="Petid_Update()[pri:4, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:09 IST" name="Petid_Update" finished-at="2022-03-26T20:20:10 IST" duration-ms="1319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Petid_Update -->
+        <test-method signature="Update_Pet_by_post()[pri:5, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:10 IST" name="Update_Pet_by_post" finished-at="2022-03-26T20:20:11 IST" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update_Pet_by_post -->
+        <test-method signature="Upload_Pet_By_post()[pri:6, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:11 IST" name="Upload_Pet_By_post" finished-at="2022-03-26T20:20:13 IST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Upload_Pet_By_post -->
+        <test-method signature="PetId_Delete()[pri:7, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:13 IST" name="PetId_Delete" finished-at="2022-03-26T20:20:15 IST" duration-ms="1391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PetId_Delete -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.N26.PetStoreTest.testcase.PetId_Creation@6c130c45]" started-at="2022-03-26T20:20:15 IST" name="endReport" finished-at="2022-03-26T20:20:15 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.N26.PetStoreTest.testcase.PetId_Creation -->
+    </test> <!-- PetId_Creation -->
+    <test started-at="2022-03-26T20:20:15 IST" name="OrderId_Creation" finished-at="2022-03-26T20:20:21 IST" duration-ms="5639">
+      <class name="com.N26.PetStoreTest.testcase.OrderId_Creation">
+        <test-method is-config="true" signature="startReport(org.testng.ITestContext)[pri:0, instance:com.N26.PetStoreTest.testcase.OrderId_Creation@fba92d3]" started-at="2022-03-26T20:20:15 IST" name="startReport" finished-at="2022-03-26T20:20:15 IST" duration-ms="166" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1a536164]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="Order_create_Success()[pri:0, instance:com.N26.PetStoreTest.testcase.OrderId_Creation@fba92d3]" started-at="2022-03-26T20:20:15 IST" name="Order_create_Success" finished-at="2022-03-26T20:20:17 IST" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_create_Success -->
+        <test-method signature="Order_Fetch()[pri:1, instance:com.N26.PetStoreTest.testcase.OrderId_Creation@fba92d3]" started-at="2022-03-26T20:20:17 IST" name="Order_Fetch" finished-at="2022-03-26T20:20:18 IST" duration-ms="1332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order_Fetch -->
+        <test-method signature="Store_Inventory()[pri:2, instance:com.N26.PetStoreTest.testcase.OrderId_Creation@fba92d3]" started-at="2022-03-26T20:20:18 IST" name="Store_Inventory" finished-at="2022-03-26T20:20:19 IST" duration-ms="1388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Store_Inventory -->
+        <test-method signature="store_Delete()[pri:3, instance:com.N26.PetStoreTest.testcase.OrderId_Creation@fba92d3]" started-at="2022-03-26T20:20:19 IST" name="store_Delete" finished-at="2022-03-26T20:20:21 IST" duration-ms="1343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- store_Delete -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.N26.PetStoreTest.testcase.OrderId_Creation@fba92d3]" started-at="2022-03-26T20:20:21 IST" name="endReport" finished-at="2022-03-26T20:20:21 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.N26.PetStoreTest.testcase.OrderId_Creation -->
+    </test> <!-- OrderId_Creation -->
+    <test started-at="2022-03-26T20:20:21 IST" name="User_Creation" finished-at="2022-03-26T20:20:29 IST" duration-ms="8134">
+      <class name="com.N26.PetStoreTest.testcase.User_Creation">
+        <test-method is-config="true" signature="startReport(org.testng.ITestContext)[pri:0, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:21 IST" name="startReport" finished-at="2022-03-26T20:20:21 IST" duration-ms="68" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@44864536]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="User_Creation()[pri:0, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:21 IST" name="User_Creation" finished-at="2022-03-26T20:20:22 IST" duration-ms="1324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Creation -->
+        <test-method signature="UserCreationWithArray()[pri:1, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:22 IST" name="UserCreationWithArray" finished-at="2022-03-26T20:20:24 IST" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCreationWithArray -->
+        <test-method signature="UserCreationWithList()[pri:2, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:24 IST" name="UserCreationWithList" finished-at="2022-03-26T20:20:25 IST" duration-ms="1320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCreationWithList -->
+        <test-method signature="UserNameFetch()[pri:3, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:25 IST" name="UserNameFetch" finished-at="2022-03-26T20:20:26 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserNameFetch -->
+        <test-method signature="UserPutRequest()[pri:4, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:26 IST" name="UserPutRequest" finished-at="2022-03-26T20:20:28 IST" duration-ms="1349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserPutRequest -->
+        <test-method signature="User_delete()[pri:5, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:28 IST" name="User_delete" finished-at="2022-03-26T20:20:29 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_delete -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.N26.PetStoreTest.testcase.User_Creation@16610890]" started-at="2022-03-26T20:20:29 IST" name="endReport" finished-at="2022-03-26T20:20:29 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.N26.PetStoreTest.testcase.User_Creation -->
+    </test> <!-- User_Creation -->
+    <test started-at="2022-03-26T20:20:29 IST" name="logIn" finished-at="2022-03-26T20:20:32 IST" duration-ms="3118">
+      <class name="com.N26.PetStoreTest.testcase.logIn">
+        <test-method is-config="true" signature="startReport(org.testng.ITestContext)[pri:0, instance:com.N26.PetStoreTest.testcase.logIn@73e22a3d]" started-at="2022-03-26T20:20:29 IST" name="startReport" finished-at="2022-03-26T20:20:29 IST" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@455f4483]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method signature="LogIn()[pri:1, instance:com.N26.PetStoreTest.testcase.logIn@73e22a3d]" started-at="2022-03-26T20:20:29 IST" name="LogIn" finished-at="2022-03-26T20:20:30 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method signature="Log_Out()[pri:2, instance:com.N26.PetStoreTest.testcase.logIn@73e22a3d]" started-at="2022-03-26T20:20:30 IST" name="Log_Out" finished-at="2022-03-26T20:20:32 IST" duration-ms="1517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log_Out -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.N26.PetStoreTest.testcase.logIn@73e22a3d]" started-at="2022-03-26T20:20:32 IST" name="endReport" finished-at="2022-03-26T20:20:32 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.N26.PetStoreTest.testcase.logIn -->
+    </test> <!-- logIn -->
+  </suite> <!-- ExtentSuite -->
+</testng-results>
